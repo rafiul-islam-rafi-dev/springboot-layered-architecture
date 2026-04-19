@@ -5,5 +5,9 @@ springboot-layered-architecture/
 │   │   ├── java/com/pollob/springflow/
 │   │   │   └── controller/
 │   │   │   │   └── StudentController.java
+│   │   │   └── model/
+│   │   │   │   └── Student.java
+│   │   │   └── repository/
+│   │   │   │   └── StudentRepository.java
 
 ```
