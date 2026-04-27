@@ -13,5 +13,6 @@ springboot-layered-architecture/
 │   │   │   │   └── StudentService.java
 │   │   │   │   └── StudentServiceImpl.java
 │   │   │   └── SpringbootLayeredArchitectureDemoApplication.java
-
+│   │   ├── resoures/
+│   │   │   └── application.properties
 ```
