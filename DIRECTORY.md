@@ -15,4 +15,6 @@ springboot-layered-architecture/
 │   │   │   └── SpringbootLayeredArchitectureDemoApplication.java
 │   │   ├── resoures/
 │   │   │   └── application.properties
+│   ├── test/java/com/pollob/springflow/
+│   │   └── SpringbootLayeredArchitectureDemoApplicationTests.java
 ```
