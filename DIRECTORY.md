@@ -17,4 +17,5 @@ springboot-layered-architecture/
 │   │   │   └── application.properties
 │   ├── test/java/com/pollob/springflow/
 │   │   └── SpringbootLayeredArchitectureDemoApplicationTests.java
+├── .gitattributes
 ```
