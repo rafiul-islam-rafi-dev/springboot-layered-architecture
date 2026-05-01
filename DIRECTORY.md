@@ -19,4 +19,6 @@ springboot-layered-architecture/
 │   │   └── SpringbootLayeredArchitectureDemoApplicationTests.java
 ├── .gitattributes
 ├── .gitignore
+├── DIRECTORY.md
+
 ```
