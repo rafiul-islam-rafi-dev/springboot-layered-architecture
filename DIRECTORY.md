@@ -21,4 +21,5 @@ springboot-layered-architecture/
 ├── .gitignore
 ├── DIRECTORY.md
 ├── README.md
+├── Self Note
 ```
