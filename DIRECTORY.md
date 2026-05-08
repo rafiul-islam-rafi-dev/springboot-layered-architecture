@@ -24,4 +24,5 @@ springboot-layered-architecture/
 ├── Self Note
 ├── mvnw
 ├── mvnw.cmd
+├── pom.xml
 ```
